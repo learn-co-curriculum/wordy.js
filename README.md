@@ -77,4 +77,4 @@ learn -b
 
 *Note:* The math operations in the examples above should be performed in the order that they are written. However, in order to correctly follow order of operations, remember to add parentheses wherever needed. 
 
-<a href='https://learn.co/lessons/wordy.js' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/wordy.js' title='Wordy'>Wordy</a> on Learn.co and start learning to code for free.</p>
